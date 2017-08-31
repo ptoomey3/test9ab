@@ -5,3 +5,6 @@
  ### Test_*_2 and stuff
  
  Test2
+
+
+<img src="./test1.svg" />
